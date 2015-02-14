@@ -1,10 +1,10 @@
 #!/usr/bin/python -tt
 import oauth2 as oauth
 import urllib2 as urllib
-api_key = "mAjUCPtzt3ni1OdLVwDDVApIY"
-api_secret = "1rF90lkOo4mB8d5k0Lul6NHpmYeyjx4plZxEUzeRgcPIgHEvtQ"
-access_token_key = "274111062-TbPPvN0NKlV8nS7KXnTZLsadleYgc44rSyMtHcL9"
-access_token_secret = "ohxRD3OWgflfdNozfxy5dfyNgWt5GdliI5Hs3XbU4uqYx"
+api_key = "<api-key>"
+api_secret = "<api-secret"
+access_token_key = "<access-token-key>"
+access_token_secret = "<access-toekn-secret>"
 
 _debug = 0
 
